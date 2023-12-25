@@ -1,5 +1,5 @@
 # whatsapp-ws云控系统
-WhatsApp云控系统-海豚云控系统
+ws协议-WhatsApp云控系统-海豚云控系统
 
 官方订阅TG:https://t.me/Wscrms
 
