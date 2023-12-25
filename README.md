@@ -1,5 +1,7 @@
 # whatsapp-ws云控系统
-WhatsApp云控
+WhatsApp云控系统
+官方订阅TG：https://t.me/Wscrms
+技术支持联系：https://t.me/era8787
 功能介绍：
 ✅注册功能：自动注册，手动注册，“商业号，个人号”可帮忙对接市面接码平台 
 ✅登陆功能：批量登陆“个人号，商业号”六段 四段 参数都可以上 
@@ -11,4 +13,5 @@ WhatsApp云控
 ✅ 代理功能：开设账号，划拨积分，管理用户 
 ✅ 用户权限管理
 ✅群聊
+购买端口功能-端口日志
 ![图片1](https://github.com/ERA7777/whatsapp-ws/assets/112697571/2bee1648-dfc2-4125-9ffa-d12ad30bc747)
