@@ -3,7 +3,7 @@ WhatsApp云控系统
 
 官方订阅TG:https://t.me/Wscrms
 
-技术支持联系:https://t.me/era8787
+技术支持联系TG:https://t.me/era8787
 
 
 功能介绍：
