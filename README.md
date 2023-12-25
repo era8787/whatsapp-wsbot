@@ -28,6 +28,7 @@ WhatsApp云控系统-海豚云控系统
 
 ✅群聊
 
-购买端口功能-端口日志
+端口功能-端口日志
 
-![图片1](https://github.com/ERA7777/whatsapp-ws/assets/112697571/2bee1648-dfc2-4125-9ffa-d12ad30bc747)
+
+![图片1](https://github.com/era8787/whatsapp-ws-/assets/112697571/3fed4139-9e05-41ed-b065-c915107e7fef)
